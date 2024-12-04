@@ -2,3 +2,5 @@
 Author: Borui Lin, Junshu Xin
 
 This is the final project for DSC 80 at UCSD. Using the dataset on recipes and ratings, we plan to investigate the relationship between number of steps in a recipe and the average rating of a recipe 
+
+im junshuskdfjkalsdjf
